@@ -1,5 +1,5 @@
 /* 
-  Sergei Melkoumian
+  sergeim19
   April 27, 2015
   Burgers equation - GPU CUDA version
 */
